@@ -1,5 +1,5 @@
 {
-  "homepage":"https://mounika-atla/github.io/schoolprojectvoice",
+  "homepage":".",
 
   "name": "frontend",
   "version": "0.1.0",
@@ -18,7 +18,7 @@
   },
   "scripts": {
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
 
     
